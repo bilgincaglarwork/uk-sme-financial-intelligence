@@ -103,7 +103,7 @@ scipy
 ## Installation
 
 ```bash
-git clone https://github.com/notabyte/uk-sme-financial-intelligence
+git clone https://github.com/bilgincaglarwork/uk-sme-financial-intelligence
 cd uk-sme-financial-intelligence
 pip install -r requirements.txt
 jupyter notebook
